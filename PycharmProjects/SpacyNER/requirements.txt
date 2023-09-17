@@ -1,0 +1,32 @@
+flask
+opencv-python
+seaborn
+pandas
+torch
+torchvision
+torchaudio
+nltk
+pdfminer.six
+PyPDF2
+datefinder
+dateparser
+pdfplumber
+nameparser
+addressparser
+python-dateutil
+pyap
+usaddress
+transformers
+sentence-transformers
+spacy-transformers
+flair
+PyMuPDF
+Pillow
+pdf2image
+pytesseract
+paddleocr
+pypdfium2
+gevent
+
+#python -m spacy download en_core_web_trf
+#python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
