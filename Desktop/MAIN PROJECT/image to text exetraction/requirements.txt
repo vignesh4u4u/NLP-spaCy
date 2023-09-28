@@ -1,0 +1,20 @@
+#python version ==3.8.0
+#python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
+flask
+opencv-python
+seaborn
+pandas
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+spacy-transformers
+flair
+PyMuPDF
+Pillow
+pdf2image
+pytesseract
+paddleocr
+pypdfium2
+pywhatkit
